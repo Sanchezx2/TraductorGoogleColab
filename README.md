@@ -25,7 +25,7 @@ Bienvenido al repositorio del traductor definitivo. Este proyecto no es un simpl
 
 No necesitas clonar el repositorio ni instalar Python en tu ordenador. Puedes ejecutar el entorno interactivo directamente en tu navegador haciendo clic en este botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sanchezx2/TraductorGoogleColab/blob/main/Traductor_Pro_Max.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sanchezx2/TraductorGoogleColab/blob/main/Practica7CarlosSanchez.ipynb)
 
 ### Instrucciones de uso en Colab:
 1. Abre el enlace de arriba.
